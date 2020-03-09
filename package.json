@@ -1,0 +1,23 @@
+{
+  "name": "leypal-node-template",
+  "version": "0.0.1",
+  "description": "Node Template To Leypal Services On AWS",
+  "main": "app.js",
+  "author": "Cruz Ortiz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.3",
+    "@types/node": "^13.9.0",
+    "@typescript-eslint/eslint-plugin": "^2.23.0",
+    "@typescript-eslint/parser": "^2.23.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1",
+    "typescript": "^3.8.3"
+  }
+}
