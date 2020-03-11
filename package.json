@@ -1,7 +1,7 @@
 {
-    "name": "leypal-node-template",
-    "version": "0.0.1",
-    "description": "Node Template To Leypal Services On AWS",
+    "name": "typescript-node-template",
+    "version": "1.0.0",
+    "description": "Typescript Node Express Template Project",
     "main": "app.ts",
     "author": "Cruz Ortiz",
     "license": "MIT",
