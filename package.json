@@ -1,7 +1,7 @@
 {
-    "name": "typescript-node-template",
+    "name": "typescript-node-express-template",
     "version": "1.0.0",
-    "description": "Typescript Node Express Template Project",
+    "description": "Typescript Node Express Template Project, holds the basic setup for the project",
     "main": "app.ts",
     "author": "Cruz Ortiz",
     "license": "MIT",
