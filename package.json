@@ -6,7 +6,7 @@
     "author": "Cruz Ortiz",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "ts-node": "^8.6.2"
     },
     "devDependencies": {
